@@ -26,10 +26,10 @@ A simple and interactive Bash script that displays all running processes started
 
 ```bash
 # Clone the repository
-git clone <your-repo-link-here>
+git clone https://github.com/OxidAss/arch-process-viewer.git
 
 # Move into the script directory
-cd <your-repo-folder>
+cd arch-process-viewer
 
 # Make the script executable
 chmod +x start.sh
